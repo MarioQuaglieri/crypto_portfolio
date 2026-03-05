@@ -1,0 +1,197 @@
+2026-03-04 10:10:06,842 INFO Avvio programma...
+2026-03-04 10:10:06,842 INFO Chiamata API in corso...
+2026-03-04 10:10:07,390 INFO Dati ricevuti correttamente (3 asset)
+2026-03-04 10:10:07,394 INFO Dati API ricevuti
+2026-03-04 10:10:07,400 INFO Valore totale portafoglio: $39,893.52
+2026-03-04 10:10:07,406 INFO Storico salvato
+2026-03-04 10:23:58,879 INFO Avvio programma...
+2026-03-04 10:23:58,879 INFO Chiamata API in corso...
+2026-03-04 10:23:59,501 INFO Dati ricevuti correttamente (3 asset)
+2026-03-04 10:23:59,501 INFO Dati API ricevuti
+2026-03-04 10:23:59,509 INFO Dataframe preparato con 3 asset
+2026-03-04 10:23:59,518 INFO Pesi calcolati correttamente
+2026-03-04 10:23:59,519 INFO Valore totale calcolato
+2026-03-04 10:23:59,520 INFO Valore totale portafoglio: $40,025.83
+2026-03-04 10:23:59,532 INFO Storico aggiornato (5 righe totali)
+2026-03-04 10:23:59,545 INFO Storico salvato in data/history.csv
+2026-03-04 10:23:59,545 INFO Storico salvato
+2026-03-04 10:24:03,896 INFO Prossimo aggiornamento tra 60 secondi
+2026-03-04 10:25:03,899 INFO Avvio programma...
+2026-03-04 10:25:03,899 INFO Chiamata API in corso...
+2026-03-04 10:25:04,519 INFO Dati ricevuti correttamente (3 asset)
+2026-03-04 10:25:04,524 INFO Dati API ricevuti
+2026-03-04 10:25:04,529 INFO Dataframe preparato con 3 asset
+2026-03-04 10:25:04,529 INFO Pesi calcolati correttamente
+2026-03-04 10:25:04,531 INFO Valore totale calcolato
+2026-03-04 10:25:04,531 INFO Valore totale portafoglio: $39,996.82
+2026-03-04 10:25:04,534 INFO Storico aggiornato (6 righe totali)
+2026-03-04 10:25:04,536 INFO Storico salvato in data/history.csv
+2026-03-04 10:25:04,536 INFO Storico salvato
+2026-03-04 10:25:05,289 INFO Prossimo aggiornamento tra 60 secondi
+2026-03-04 10:26:05,298 INFO Avvio programma...
+2026-03-04 10:26:05,298 INFO Chiamata API in corso...
+2026-03-04 10:26:05,888 INFO Dati ricevuti correttamente (3 asset)
+2026-03-04 10:26:05,891 INFO Dati API ricevuti
+2026-03-04 10:26:05,893 INFO Dataframe preparato con 3 asset
+2026-03-04 10:26:05,894 INFO Pesi calcolati correttamente
+2026-03-04 10:26:05,895 INFO Valore totale calcolato
+2026-03-04 10:26:05,895 INFO Valore totale portafoglio: $40,024.23
+2026-03-04 10:26:05,898 INFO Storico aggiornato (7 righe totali)
+2026-03-04 10:26:05,900 INFO Storico salvato in data/history.csv
+2026-03-04 10:26:05,900 INFO Storico salvato
+2026-03-04 10:26:06,622 INFO Prossimo aggiornamento tra 60 secondi
+2026-03-04 10:49:41,494 INFO Configurazione caricata correttamente
+2026-03-04 10:49:41,495 INFO Avvio programma...
+2026-03-04 10:49:41,495 INFO Chiamata API in corso...
+2026-03-04 10:49:42,120 INFO Dati ricevuti correttamente (3 asset)
+2026-03-04 10:49:42,120 INFO Dati API ricevuti
+2026-03-04 10:49:42,125 INFO Dataframe preparato con 3 asset
+2026-03-04 10:49:42,129 INFO Pesi calcolati correttamente
+2026-03-04 10:49:42,130 INFO Valore totale calcolato
+2026-03-04 10:49:42,130 INFO Valore totale portafoglio: $40,336.57
+2026-03-04 10:49:42,135 INFO Storico aggiornato (8 righe totali)
+2026-03-04 10:49:42,138 INFO Storico salvato in data/history.csv
+2026-03-04 10:49:42,138 INFO Storico salvato
+2026-03-04 10:49:43,639 INFO Prossimo aggiornamento tra 60 secondi
+2026-03-04 10:50:00,165 INFO Programma interrotto dall'utente
+2026-03-04 11:41:48,700 INFO Configurazione caricata correttamente
+2026-03-04 11:41:48,700 INFO Avvio programma...
+2026-03-04 11:41:48,700 INFO Chiamata API in corso...
+2026-03-04 11:41:49,271 INFO Dati ricevuti correttamente (3 asset)
+2026-03-04 11:41:49,271 INFO Dati API ricevuti
+2026-03-04 11:41:49,287 INFO Dataframe preparato con 3 asset
+2026-03-04 11:41:49,290 INFO Pesi calcolati correttamente
+2026-03-04 11:41:49,290 INFO Valore totale calcolato
+2026-03-04 11:41:49,290 INFO Valore totale portafoglio: $40,110.60
+2026-03-04 11:41:49,344 ERROR Errore database: 1146 (42S02): Table 'crypto_db.crypto_db' doesn't exist
+2026-03-04 11:41:49,344 INFO Connessione al database chiusa
+2026-03-04 11:42:57,921 INFO Configurazione caricata correttamente
+2026-03-04 11:42:57,921 INFO Avvio programma...
+2026-03-04 11:42:57,921 INFO Chiamata API in corso...
+2026-03-04 11:42:58,477 INFO Dati ricevuti correttamente (3 asset)
+2026-03-04 11:42:58,480 INFO Dati API ricevuti
+2026-03-04 11:42:58,483 INFO Dataframe preparato con 3 asset
+2026-03-04 11:42:58,484 INFO Pesi calcolati correttamente
+2026-03-04 11:42:58,485 INFO Valore totale calcolato
+2026-03-04 11:42:58,485 INFO Valore totale portafoglio: $40,100.75
+2026-03-04 11:42:58,497 INFO Storico salvato nel Database
+2026-03-04 11:42:58,497 INFO Connessione al database chiusa
+2026-03-04 11:42:58,498 INFO Storico salvato
+2026-03-04 11:42:59,819 INFO Prossimo aggiornamento tra 60 secondi
+2026-03-04 11:43:52,021 INFO Programma interrotto dall'utente
+2026-03-04 11:44:56,256 INFO Configurazione caricata correttamente
+2026-03-04 11:44:56,256 INFO Avvio programma...
+2026-03-04 11:44:56,256 INFO Chiamata API in corso...
+2026-03-04 11:44:56,797 INFO Dati ricevuti correttamente (3 asset)
+2026-03-04 11:44:56,797 INFO Dati API ricevuti
+2026-03-04 11:44:56,813 INFO Dataframe preparato con 3 asset
+2026-03-04 11:44:56,816 INFO Pesi calcolati correttamente
+2026-03-04 11:44:56,816 INFO Valore totale calcolato
+2026-03-04 11:44:56,817 INFO Valore totale portafoglio: $40,093.99
+2026-03-04 11:44:56,825 INFO Storico salvato nel Database
+2026-03-04 11:44:56,825 INFO Connessione al database chiusa
+2026-03-04 11:44:56,825 INFO Storico salvato
+2026-03-04 11:44:58,147 INFO Prossimo aggiornamento tra 60 secondi
+2026-03-04 11:45:58,151 INFO Avvio programma...
+2026-03-04 11:45:58,151 INFO Chiamata API in corso...
+2026-03-04 11:45:58,683 INFO Dati ricevuti correttamente (3 asset)
+2026-03-04 11:45:58,699 INFO Dati API ricevuti
+2026-03-04 11:45:58,699 INFO Dataframe preparato con 3 asset
+2026-03-04 11:45:58,699 INFO Pesi calcolati correttamente
+2026-03-04 11:45:58,706 INFO Valore totale calcolato
+2026-03-04 11:45:58,706 INFO Valore totale portafoglio: $40,085.42
+2026-03-04 11:45:58,711 INFO Storico salvato nel Database
+2026-03-04 11:45:58,711 INFO Connessione al database chiusa
+2026-03-04 11:45:58,712 INFO Storico salvato
+2026-03-04 11:54:00,374 INFO Configurazione caricata correttamente
+2026-03-04 11:54:00,374 INFO Avvio programma...
+2026-03-04 11:54:00,374 INFO Chiamata API in corso...
+2026-03-04 11:54:00,936 INFO Dati ricevuti correttamente (3 asset)
+2026-03-04 11:54:00,952 INFO Dati API ricevuti
+2026-03-04 11:54:00,952 INFO Dataframe preparato con 3 asset
+2026-03-04 11:54:00,952 INFO Pesi calcolati correttamente
+2026-03-04 11:54:00,952 INFO Valore totale calcolato
+2026-03-04 11:54:00,952 INFO Valore totale portafoglio: $40,105.47
+2026-03-04 11:54:00,968 INFO Storico salvato nel Database
+2026-03-04 11:54:00,969 INFO Connessione al database chiusa
+2026-03-04 11:54:00,969 INFO Storico salvato
+2026-03-04 11:54:07,117 INFO Prossimo aggiornamento tra 60 secondi
+2026-03-04 11:55:07,120 INFO Avvio programma...
+2026-03-04 11:55:07,120 INFO Chiamata API in corso...
+2026-03-04 11:55:07,653 INFO Dati ricevuti correttamente (3 asset)
+2026-03-04 11:55:07,668 INFO Dati API ricevuti
+2026-03-04 11:55:07,668 INFO Dataframe preparato con 3 asset
+2026-03-04 11:55:07,668 INFO Pesi calcolati correttamente
+2026-03-04 11:55:07,668 INFO Valore totale calcolato
+2026-03-04 11:55:07,668 INFO Valore totale portafoglio: $40,086.41
+2026-03-04 11:55:07,681 INFO Storico salvato nel Database
+2026-03-04 11:55:07,681 INFO Connessione al database chiusa
+2026-03-04 11:55:07,683 INFO Storico salvato
+2026-03-04 11:55:08,464 INFO Prossimo aggiornamento tra 60 secondi
+2026-03-04 11:55:14,110 INFO Programma interrotto dall'utente
+2026-03-04 15:39:05,293 INFO Configurazione caricata correttamente
+2026-03-04 15:39:07,921 INFO Chiamata API in corso...
+2026-03-04 15:39:08,574 INFO Dati ricevuti correttamente (3 asset)
+2026-03-04 15:39:08,584 INFO Dataframe preparato con 3 asset
+2026-03-04 15:39:08,599 INFO Pesi calcolati correttamente
+2026-03-04 15:39:08,600 INFO Valore totale calcolato
+2026-03-04 15:56:44,622 INFO Configurazione caricata correttamente
+2026-03-04 15:56:44,623 INFO Avvio programma...
+2026-03-04 15:56:44,623 INFO Chiamata API in corso...
+2026-03-04 15:56:45,254 INFO Dati ricevuti correttamente (3 asset)
+2026-03-04 15:56:45,254 INFO Dati API ricevuti
+2026-03-04 15:56:45,274 INFO Dataframe preparato con 3 asset
+2026-03-04 15:56:45,280 INFO Pesi calcolati correttamente
+2026-03-04 15:56:45,281 INFO Valore totale calcolato
+2026-03-04 15:56:45,281 INFO Valore totale portafoglio: $40,258.95
+2026-03-04 15:56:45,322 INFO Storico salvato nel Database
+2026-03-04 15:56:45,322 INFO Connessione al database chiusa
+2026-03-04 15:56:45,322 INFO Storico salvato
+2026-03-04 16:01:45,252 INFO Configurazione caricata correttamente
+2026-03-04 16:01:45,252 INFO Avvio programma...
+2026-03-04 16:01:45,252 INFO Chiamata API in corso...
+2026-03-04 16:01:45,930 INFO Dati ricevuti correttamente (3 asset)
+2026-03-04 16:01:45,930 INFO Dati API ricevuti
+2026-03-04 16:01:45,930 INFO Dataframe preparato con 3 asset
+2026-03-04 16:01:45,942 INFO Pesi calcolati correttamente
+2026-03-04 16:01:45,943 INFO Valore totale calcolato
+2026-03-04 16:01:45,943 INFO Valore totale portafoglio: $40,356.59
+2026-03-04 16:01:45,955 INFO Storico salvato nel Database
+2026-03-04 16:01:45,956 INFO Connessione al database chiusa
+2026-03-04 16:01:45,956 INFO Storico salvato
+2026-03-04 16:02:04,867 INFO Configurazione caricata correttamente
+2026-03-04 16:02:04,867 INFO Avvio programma...
+2026-03-04 16:02:04,867 INFO Chiamata API in corso...
+2026-03-04 16:02:05,278 INFO Dati ricevuti correttamente (3 asset)
+2026-03-04 16:02:05,278 INFO Dati API ricevuti
+2026-03-04 16:02:05,278 INFO Dataframe preparato con 3 asset
+2026-03-04 16:02:05,296 INFO Pesi calcolati correttamente
+2026-03-04 16:02:05,297 INFO Valore totale calcolato
+2026-03-04 16:02:05,297 INFO Valore totale portafoglio: $40,356.59
+2026-03-04 16:02:05,310 INFO Storico salvato nel Database
+2026-03-04 16:02:05,310 INFO Connessione al database chiusa
+2026-03-04 16:02:05,310 INFO Storico salvato
+2026-03-04 16:02:53,473 INFO Configurazione caricata correttamente
+2026-03-04 16:02:53,473 INFO Avvio programma...
+2026-03-04 16:02:53,473 INFO Chiamata API in corso...
+2026-03-04 16:02:54,051 INFO Dati ricevuti correttamente (3 asset)
+2026-03-04 16:02:54,051 INFO Dati API ricevuti
+2026-03-04 16:02:54,051 INFO Dataframe preparato con 3 asset
+2026-03-04 16:02:54,062 INFO Pesi calcolati correttamente
+2026-03-04 16:02:54,063 INFO Valore totale calcolato
+2026-03-04 16:02:54,063 INFO Valore totale portafoglio: $40,401.39
+2026-03-04 16:02:54,073 INFO Storico salvato nel Database
+2026-03-04 16:02:54,073 INFO Connessione al database chiusa
+2026-03-04 16:02:54,073 INFO Storico salvato
+2026-03-04 16:06:56,137 INFO Configurazione caricata correttamente
+2026-03-04 16:06:56,137 INFO Avvio programma...
+2026-03-04 16:06:56,137 INFO Chiamata API in corso...
+2026-03-04 16:06:56,726 INFO Dati ricevuti correttamente (3 asset)
+2026-03-04 16:06:56,726 INFO Dati API ricevuti
+2026-03-04 16:06:56,726 INFO Dataframe preparato con 3 asset
+2026-03-04 16:06:56,726 INFO Pesi calcolati correttamente
+2026-03-04 16:06:56,726 INFO Valore totale calcolato
+2026-03-04 16:06:56,726 INFO Valore totale portafoglio: $40,292.92
+2026-03-04 16:06:56,747 INFO Storico salvato nel Database
+2026-03-04 16:06:56,747 INFO Connessione al database chiusa
+2026-03-04 16:06:56,748 INFO Storico salvato
