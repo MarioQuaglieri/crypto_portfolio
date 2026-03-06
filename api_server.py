@@ -5,6 +5,10 @@ from config import portfolio
 from api import get_crypto_data
 from pydantic import BaseModel
 import json
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 class CoinInput(BaseModel):
     coin: str
@@ -17,10 +21,10 @@ app = FastAPI()
 
 def get_db_connection():
     return mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="",
-        database="crypto_db"
+        host=os.getenv("DB_HOST"),
+        user=os.getenv("DB_USER"),
+        password=os.getenv("DB_PASSWORD"),
+        database=os.getenv("DB_NAME")
     )
 
 
