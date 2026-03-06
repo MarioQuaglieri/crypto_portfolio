@@ -30,24 +30,30 @@ def home():
 
 @app.get("/history")
 def get_history():
-    connection = get_db_connection()
-    cursor = connection.cursor()
-    cursor.execute("SELECT Data_Log, Valore_Portfolio FROM report ORDER BY Data_Log ASC")
-    rows = cursor.fetchall()
-    cursor.close()
-    connection.close()
-    return [{"data": str(row[0]), "valore": row[1]} for row in rows]
+    try:
+        connection = get_db_connection()
+        cursor = connection.cursor()
+        cursor.execute("SELECT Data_Log, Valore_Portfolio FROM report ORDER BY Data_Log ASC")
+        rows = cursor.fetchall()
+        cursor.close()
+        connection.close()
+        return [{"data": str(row[0]), "valore": row[1]} for row in rows]
+    except mysql.connector.Error:
+        raise HTTPException(status_code=503, detail="Database non raggiungibile")
 
 @app.get("/portfolio")
 def get_portfolio():
-    raw_data = get_crypto_data(portfolio)
-    df = prepare_dataframe(raw_data, portfolio)
-    df = calculate_weight(df)
-    total_value = calculate_portfolio_value(df)
-    return {
-        "total value": round(total_value, 2),
-        "assets": df.to_dict(orient="records")
-    }
+    try:
+        raw_data = get_crypto_data(portfolio)
+        df = prepare_dataframe(raw_data, portfolio)
+        df = calculate_weight(df)
+        total_value = calculate_portfolio_value(df)
+        return {
+            "total value": round(total_value, 2),
+            "assets": df.to_dict(orient="records")
+        }
+    except Exception:
+        raise HTTPException(status_code=503, detail="Errore nel recupero dei dati")
 
 @app.get("/portfolio/{coin}")
 def get_coin(coin: str):
